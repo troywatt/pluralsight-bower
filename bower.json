@@ -1,0 +1,23 @@
+{
+  "name": "RotatePackage",
+  "version": "0.0.1",
+  "authors": [
+    "assimilate"
+  ],
+  "description": "a simple rotation module",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate",
+    "javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/js",
+    "test",
+    "tests"
+  ]
+}
